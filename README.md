@@ -3,7 +3,7 @@
 
 <picture> <img align="right" src="image.gif" width = 250px></picture>
 ## <picture><img src = "about_me.gif" width = 50px></picture> **About me**
-<p>- 🤔 &nbsp; Exploring new technologies.</p>
+<p>- 💡 &nbsp; Exploring new technologies.</p>
 <p>- 🎓 &nbsp; Studying Computer Science at Ain Shams University.</p>
 <p>- 🌱 &nbsp; Learning more about IT careers.</p>
 
