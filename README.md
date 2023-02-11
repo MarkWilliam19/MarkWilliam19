@@ -29,7 +29,7 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/mark-sameh-william/"><img src="https://img.shields.io/badge/-Mark%Sameh%20William-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/mark-sameh-william/"><img src="https://img.shields.io/badge/-Mark%20Sameh%20William-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:mark.sameh19@gmail.com"><img src="https://img.shields.io/badge/-mark.sameh19@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.facebook.com/mark.sameh.william/"><img src="https://img.shields.io/badge/-Mark%20Sameh%20William-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 </p>
