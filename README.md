@@ -1,5 +1,5 @@
 <p align="center"><a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Mark+Sameh+William..&hearts;++;Computer+Science+Student,;Love+Coding,;Active+Learner,;Love+to+learn+new+technologies..<3"></a></p>
-<h2 align="center"> Hello there! I'm Mark.</h2>
+<h2 align="center"> Hello there! I'm Mark, Software Engineer.</h2>
 
 <picture> <img align="right" src="image.gif" width = 250px></picture>
 ## <picture><img src = "about_me.gif" width = 50px></picture> **About me**
@@ -9,6 +9,10 @@
 
 <br><br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 
