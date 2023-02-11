@@ -5,7 +5,7 @@
 ## <picture><img src = "about_me.gif" width = 50px></picture> **About me**
 <p>- 💡 &nbsp; Exploring new technologies.</p>
 <p>- 🎓 &nbsp; Studying Computer Science at Ain Shams University.</p>
-<p>- 🌱 &nbsp; Learning more about IT careers.</p>
+<p>- 🌱 &nbsp; Learning more about software solutions.</p>
 
 <br><br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
