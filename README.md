@@ -1,4 +1,4 @@
-<p align="center"><a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Mark+Sameh+William..&hearts;++;Computer+Science+Student,;Love+Coding,;Active+Learner,;Love+to+learn+new+technologies..<3"></a></p>
+<p align="center"><a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Mark+Sameh+William..&hearts;++;Computer+Science+Graduate,;Love+Coding,;Active+Learner,;Love+to+learn+new+technologies..<3"></a></p>
 <h2 align="center"> Hello there! I'm Mark, Software Engineer.</h2>
 
 <picture> <img align="right" src="image.gif" width = 250px></picture>
